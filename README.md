@@ -32,4 +32,8 @@ Open `index.html` in your preferred web browser to start the game.
 - Avoid colliding with other cars and navigate through the track
 - The game tracks your score, speed, and lap times
 
+## ScreenShot
+- <img width="1432" alt="Screenshot 2024-01-08 at 12 50 45 PM" src="https://github.com/shovo4/LetsDriveCar/assets/58551093/8c2ae3c3-7d1e-441a-baf6-5df40403f781">
+
+
 
